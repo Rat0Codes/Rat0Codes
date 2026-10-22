@@ -17,7 +17,8 @@
 
 -  Linux user | Pop!_OS | Open Source enthusiast
 
-<h2></h2>
+<h1>Skills</h1>
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="67" alt="nodejs logo"  />
   <img width="12" />
