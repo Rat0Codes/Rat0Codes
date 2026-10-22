@@ -1,4 +1,5 @@
-<p align="leftr">
+<h1></h1>
+<p align="center">
   <img src="assets/charizard.gif" width="300" alt="gif">
 </p>
  
@@ -38,6 +39,8 @@
 </div>
 
 ###
+
+
 
 
 ###
