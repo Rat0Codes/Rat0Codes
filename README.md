@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/62b878d0-b255-4bf2-95c1-85c32de41b2f" />
+</div>
+ 
+### `Rudson Santos` - `@Rat0Codes`  
 
-<!--
-**Rat0Codes/Rat0Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">About me</h1>
 
-Here are some ideas to get you started:
+### Hello there, I'm Rudson!
+- Computer Engineering student passionate about programming, problem-solving, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning **Python, Data Structures & Algorithms, and Object-Oriented Programming**.
+
+-  Exploring **Artificial Intelligence, Data Analytics, and Automation**.
+
+-  Building projects to strengthen my fundamentals and turn knowledge into practical solutions.
+
+-  Linux user | Pop!_OS | Open Source enthusiast
+
+
+
+
+
+
+###
