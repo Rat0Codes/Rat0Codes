@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="assets/charizard.gif" width="500" alt="Demonstração do projeto">
+<p align="left">
+  <img src="assets/charizard.gif" width="250" alt="Demonstração do projeto">
 </p>
  
 ### `Rudson Santos` - `@Rat0Codes`  
@@ -19,6 +19,8 @@
 
 <h2></h2>
 <div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="67" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="67" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="67" alt="html5 logo"  />
