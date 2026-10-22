@@ -1,6 +1,6 @@
-<div align="center">
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/62b878d0-b255-4bf2-95c1-85c32de41b2f" />
-</div>
+<p align="center">
+  <img src="assets/charizard.gif" width="500" alt="Demonstração do projeto">
+</p>
  
 ### `Rudson Santos` - `@Rat0Codes`  
 
