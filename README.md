@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="assets/charizard.gif" width="250" alt="Demonstração do projeto">
+<p align="leftr">
+  <img src="assets/charizard.gif" width="300" alt="gif">
 </p>
  
 ### `Rudson Santos` - `@Rat0Codes`  
